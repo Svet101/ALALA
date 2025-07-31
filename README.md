@@ -42,8 +42,8 @@ def format_message(data):
 
 # Send to Telegram
 def send_to_telegram(message):
-    bot = Bot(token=BOT_TOKEN)
-    bot.send_message(chat_id=CHAT_ID, text=message)
+    bot = Bot(token=8384091601:AAFzMdbHpayuVlKj7_XFf-mO_xMKxZLO5ak)
+    bot.send_message(chat_id= 5461153356)
 
 # Run
 if __name__ == "__main__":
